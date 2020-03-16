@@ -1,34 +1,39 @@
-# AWS Certified Security – Specialty [Video]
-This is the code repository for [AWS Certified Security – Specialty](https://www.packtpub.com/cloud-networking/aws-certified-security-specialty-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Fast Numerical Computing with Python [Video]
+This is the code repository for [Fast Numerical Computing with Python](https://www.packtpub.com/data/fast-numerical-computing-with-python-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 This course will get you ready to control access to your AWS resources granularly. You will develop the skills to pass the exam for the Security Solutions certification.	
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Get familiar with specialized data classifications and AWS data protection mechanisms
-<LI>Understand data-encryption methods and use AWS mechanisms to implement them
-<LI>Secure internet protocols and use AWS mechanisms to implement them
-<LI>Master AWS security services and their features to provide a secure production environment
-<LI>Gain production deployment experience using AWS security services and features
-<LI>Take into consideration the cost of different security features and the overall impact on architectures in terms of complexity	 </LI></UL></DIV>
+<LI>Develop a strong foundation for numerical computational problems
+<LI>Competently program in Python and code in Jupyter Notebooks
+<LI>Use the most significant numerical computing library available for Python: NumPy
+<LI>Gain high-level access to extremely efficient computational routines with NumPy
+<LI>Use Python for data science: to work with high-level mathematical functions and simplify data
+<LI>Implement multi-dimensional arrays and matrices with NumPy's powerful data structures to enrich your programming experience
+<LI>Perform vector and matrix operations using NumPy and linear algebra
+<LI>Work on real-world datasets to develop a predictive model using simple and multiple linear regression techniques
+</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Prior knowledge of security controls for workloads on AWS (and IT security experience in designing and implementing security solutions) is assumed. Familiarity with AWS will be beneficial.
+You are expected to have some familiarity with mathematics to get the most out of this course.
+No previous knowledge of NumPy programming is expected!
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-<UL><LI>Operating system: None
+<UL><LI>Operating system: Any
 <LI>Browser: Chrome, Firefox or IE
-<LI>SSH Client: Putty and Puttygen for Windows
-<LI>RDP Client – RDP Client for Mac</LI></UL>
+<LI>Jupyter Notebook
+<LI>Anaconda
+<LI>Python 3.7</LI></UL>
 
 ## Related Products
-* [AWS Essentials and Solutions Architect Associate: The Total Course [Video]](https://www.packtpub.com/cloud-networking/aws-essentials-and-solutions-architect-associate-the-total-course-video)
+* [Fundamentals of Statistics and Visualization in Python [Video]]https://www.packtpub.com/data/fundamentals-of-statistics-and-visualization-in-python-video)
 
-* [AWS Certified Developer Associate - A Practical Guide [Video]](https://www.packtpub.com/application-development/aws-certified-developer-associate-practical-guide-video)
+* [Project-Based Python Programming For Kids and Beginners [Video]](https://www.packtpub.com/programming/project-based-python-programming-for-kids-and-beginners-video)
 
-* [AWS Certified Solution Architect Professional - Revision Guide [Video]](packtpub.com/virtualization-and-cloud/aws-certified-solution-architect-professional-revision-guide-video)
+* [Clustering and Classification with Machine Learning in Python [Video]](https://www.packtpub.com/data/clustering-and-classification-with-machine-learning-in-python-video)
 
